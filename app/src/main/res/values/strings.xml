@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidTest1</string>
+    <string name="greetings">Happy Birthday to you!!!</string>
 </resources>
